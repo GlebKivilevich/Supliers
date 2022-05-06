@@ -153,3 +153,4 @@ let inputEmail = document.querySelector(".input__phone"),
     }
 
 // Валидатор email
+
